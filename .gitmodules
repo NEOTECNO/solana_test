@@ -1,0 +1,6 @@
+[submodule "anchor"]
+	path = anchor
+	url = https://github.com/project-serum/anchor.git
+[submodule "solana"]
+	path = solana
+	url = https://github.com/solana-labs/solana.git
